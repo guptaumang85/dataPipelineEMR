@@ -4,6 +4,11 @@
 
 The US National Tourism and Trade Office gather data from visitors to the US from all over the world. The objective of this project is to combine this data with statistics of temperature of the country of origin and demographics of state where the traveler visited. This enhancement allows to better understand the incoming travellers to the US. Ultimately, we want to automate this process through a ETL pipeline orchestrated with **Airflow**. A file storage in S3, to easy access and analysis, is the expected product of this data pipeline.
 
+## Technology Stack
+
+* AWS-EMR
+* PySpark
+* Airflow
 
 ## Overview
 
